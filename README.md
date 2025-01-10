@@ -1,4 +1,3 @@
-TESTING
 
 ## Hi there 👋
 
